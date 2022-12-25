@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-netninja-crash-course",
+  "version": "1.0.0",
+  "description": "Bootstrap-5-crash course",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjunultra/bootstrap-netninja-crash-course.git"
+  },
+  "author": "Arjun Balan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arjunultra/bootstrap-netninja-crash-course/issues"
+  },
+  "homepage": "https://github.com/arjunultra/bootstrap-netninja-crash-course#readme",
+  "devDependencies": {
+    "sass": "^1.57.1",
+    "vite": "^4.0.3"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.3"
+  }
+}
